@@ -17,13 +17,13 @@ Here is the view of the calendar after clicking on the input.
 You can install this calendar with npm:
 
 ```
-npm install react-calendar-nekochan
+npm install react-calendar-component-nekochan
 ```
 ## Add the component
 ***
 #### Import the calendar
 ```
-import Calendar from "react-calendar-nekochan"
+import {Calendar} from "react-calendar-component-nekochan"
 ```
 
 #### Insert the calendar

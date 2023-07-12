@@ -1,7 +1,17 @@
 {
-  "name": "p14-react-calendar",
+  "name": "react-calendar-component-nekochan",
+  "description": "Creation of react calendar component",
+  "author": "Nekochan977",
+  "keywords": ["react", "components", "calendar"],
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "files": [ "dist", "README.md" ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nekochan977/p14-OC-React-Calendar-package"
+  },
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
     "@testing-library/jest-dom": "^5.16.5",
